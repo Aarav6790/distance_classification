@@ -2,4 +2,3 @@ venv/
 *.log
 *.csv
 __pycache__/
-*.jpg
