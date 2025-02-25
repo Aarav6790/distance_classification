@@ -3,8 +3,7 @@
 ## 📌 Experiment Summary
 - **Features Used:** Hue & Saturation
 - **Model Used:** K-Means Clustering (k=2)
-- **Accuracy:** 87%
-- **Loss:** 0.12
+
 
 ## 📊 WandB Experiment Tracking
 ![WandB Screenshot](wandb.png)
